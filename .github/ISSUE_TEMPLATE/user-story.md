@@ -7,4 +7,11 @@ assignees: ''
 
 ---
 
-As a **Role** can  **Capability** so that **Recived Benifit**
+As a **Role** I  would like to  **Capability** so that **Recive Benifit**
+
+# Acceptance Criteria
+
+  * Acceptance Criteria 1:
+  * Acceptance Criteria 2:
+  * Acceptance Criteria 3:
+  * Acceptance Criteria 4:
